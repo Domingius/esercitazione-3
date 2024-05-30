@@ -39,7 +39,7 @@
   
 .hero{
     min-height: 100vh;
-    background-image:url(paesaggio.png);
+    background-image:url(static/paesaggio.png);
     font-size: 110px;
     position: relative;
     display: flex;
@@ -120,10 +120,5 @@ ul{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
-<<<<<<< HEAD
-    
-=======
-    
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
->>>>>>> 0651f00cbef01f6d809bed45ee46ddd518bb5150
+

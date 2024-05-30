@@ -39,7 +39,7 @@
   
 .hero{
     min-height: 100vh;
-    background-image:url(static/paesaggio.png);
+    background-image:url(paesaggio.png);
     font-size: 110px;
     position: relative;
     display: flex;
@@ -52,7 +52,7 @@
 .Main{
     display: flex;
     align-items: center;
-    font-size: 30px;
+
     flex-grow: 1;
     flex-direction: column;
     justify-content: center;
@@ -92,7 +92,7 @@
         border-top: 2px solid white;
         color: #080C71;
         text-decoration: none;
-        display: block;  
+        text-align: center;
 }
 
 ul{
@@ -114,9 +114,12 @@ ul{
 }
 
 .line{
-    border-top: 2px solid white
-    width: 275px
-    margin-botto: 20px;
+    border-top: 2px solid white;
+    width: 275px;
+    margin-bottom: 20px;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+    
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');

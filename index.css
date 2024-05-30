@@ -39,7 +39,7 @@
   
 .hero{
     min-height: 100vh;
-    background-image:url(paesaggio.png);
+    background-image:url(static/paesaggio.png);
     font-size: 110px;
     position: relative;
     display: flex;
